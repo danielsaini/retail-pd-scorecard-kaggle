@@ -88,8 +88,7 @@ The choices a validator would scrutinise, documented deliberately:
 - **Unregularised LR as champion** — interpretability and regulatory acceptance over
   marginal lift; coefficients map directly to a points table.
 - **Calibration distinction** — LR calibration is validation evidence (the MLE score
-  equation forces mean predicted = mean actual on train); recalibration is reserved for
-  non-probability models (e.g. an XGBoost challenger).
+  equation forces mean predicted = mean actual on train).
 - **Missingness as signal** — `person_emp_length` nulls kept as their own bin only after
   *both* a significance check and a bad-rate-direction check; non-informative
   `loan_int_rate` nulls median-imputed.
