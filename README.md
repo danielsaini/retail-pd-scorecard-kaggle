@@ -1,8 +1,8 @@
 # Retail PD Scorecard — Logistic Regression Champion
 
 An end-to-end Probability-of-Default scorecard on retail/personal loans, built to
-model-validation standards (SR 11-7, Basel IRB, IFRS 9 ECL, MAS Notice 637). The focus
-is **development discipline and validation defensibility** — every modelling decision is
+model-validation standards. The focus
+is **development discipline and validation defensibility**. Here every modelling decision is
 documented as it would be in a Model Development Document (MDD), with the train/test
 firewall enforced throughout.
 
@@ -28,7 +28,6 @@ firewall enforced throughout.
 | Basel IRB | PD as a risk parameter; rank-ordering + calibration requirements |
 | IFRS 9 ECL | Calibrated PDs feed expected credit loss; no probability distortion |
 | SR 11-7 | Documentation, effective challenge, reproducible model package |
-| MAS Notice 637 | Singapore capital-adequacy context for the standard applied |
 
 ## 3. Development Pipeline
 

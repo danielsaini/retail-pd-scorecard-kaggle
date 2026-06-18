@@ -6,7 +6,7 @@
 **Version:** 1.0
 **Author:** Daniel Cherkasskiy Saini
 **Date:** 14-06-2026
-**Status:** Development — pending independent validation
+
 
 ---
 
@@ -43,7 +43,7 @@ without further extension.
 | Basel IRB | PD as a risk parameter; rank-ordering and calibration requirements |
 | IFRS 9 ECL | Calibrated PDs feed expected credit loss; predicted probabilities must not be distorted |
 | SR 11-7 | Conceptual soundness, ongoing monitoring, outcomes analysis; documentation and effective challenge |
-| MAS Notice 637 | Singapore capital-adequacy context for the modelling standard applied |
+
 
 ## 4. Data
 
